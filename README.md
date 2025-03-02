@@ -7,8 +7,7 @@ The app aims to solve the challenge of finding compatible roommates in dormitori
 
 # Target Audience:
 
-Students: Particularly those living in dorms or shared housing who want to ensure they are paired with compatible roommates.
-Administrators: Staff who oversee housing assignments and wish to streamline the process through data-driven matchings.
+Particularly those living in dorms or shared housing who want to ensure they are paired with compatible roommates. Also the staff who oversee housing assignments and wish to streamline the process through data-driven matchings.
 
 
 # Key Features:
