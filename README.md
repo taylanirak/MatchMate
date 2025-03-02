@@ -45,14 +45,6 @@ Particularly those living in dorms or shared housing who want to ensure they are
 
 # Challenges:
   
-  # Algorithm Tuning and Performance:
-    Ensuring the clustering and similarity calculations accurately reflect compatibility.
-    Optimizing performance, especially as the dataset grows.
-  # Data Security and Privacy:
-    Protecting sensitive user information with robust authentication and secure storage practices.
-  # Integration Between Flutter and Database:
-    Typically, direct connections between a mobile app and MySQL are not recommended; implementing a secure backend API might be necessary.
-  # User Experience:
-    Designing an intuitive interface that accommodates the data collection and display of complex matching information.
-  # Scalability:
-    Maintaining performance and data integrity as the number of users increases.
+  -Optimizing performance, especially as the dataset grows.
+  -Protecting sensitive user information with robust authentication and secure storage practices.
+  -Maintaining performance and data integrity as the number of users increases.
